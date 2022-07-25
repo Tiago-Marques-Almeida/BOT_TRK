@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+TRKbot/__init__.py
+TRKbot/__main__.py
+TRKbot/bot.py
+TRKbot.egg-info/PKG-INFO
+TRKbot.egg-info/SOURCES.txt
+TRKbot.egg-info/dependency_links.txt
+TRKbot.egg-info/requires.txt
+TRKbot.egg-info/top_level.txt
+TRKbot/resources/start.png
